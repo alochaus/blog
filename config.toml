@@ -1,0 +1,13 @@
+baseURL = "https://alochaus.github.io/blog/"
+languageCode = "en-us"
+title = "Aloc"
+publishDir = "docs"
+theme = "hugo_theme_pickles"
+
+[params]
+  paginate = 10
+  custom_css = ["/css/custom.css"]
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  twitter = "alochaus"
+  github = "alochaus"
