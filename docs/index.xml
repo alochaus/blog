@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aloc</title>
+    <link>https://alochaus.github.io/blog/</link>
+    <description>Recent content on Aloc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jun 2020 18:56:44 -0400</lastBuildDate>
+    
+	<atom:link href="https://alochaus.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Managing Your Passwords with GPG and Pass</title>
+      <link>https://alochaus.github.io/blog/posts/2020-06-22/managing-your-passwords-with-gpg-and-pass/</link>
+      <pubDate>Mon, 22 Jun 2020 18:56:44 -0400</pubDate>
+      
+      <guid>https://alochaus.github.io/blog/posts/2020-06-22/managing-your-passwords-with-gpg-and-pass/</guid>
+      <description>Explaining PGP Cryptography The Problem with Symmetric Keys The concept of a symmetric key is pretty simple. Let&amp;rsquo;s suppose that we have a box with a lock. The symmetric key will be able to open (decrypt) and close (encrypt) the box. Just like any other key, you can make a copy and give it to a friend. Can you see it already? If a third party intercepts the packets that you sent to a friend, this person might also able to open and close the box.</description>
+    </item>
+    
+  </channel>
+</rss>
